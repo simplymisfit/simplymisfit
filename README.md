@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A junior developer from Poland</h3>
 
-<h5 align="center">🔭 I’m currently working on **Emplo**</h5>
+<h5 align="center">🔭 I’m currently working on <strong>Emplo</strong></h5>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
