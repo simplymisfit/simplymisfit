@@ -1,7 +1,6 @@
 <div style="text-align: center;">
   
 ### Hi 👋, I'm Filip
-#### 🔭 I’m currently working on Emplo
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,powershell,js,ts,react,github,visualstudio,vscode,postman&perline=4)](https://skillicons.dev)
 
